@@ -1,0 +1,395 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background: url(img/02.corona.png);
+    height: 596px;
+    width: 100%;
+    background-size: cover;
+    margin-bottom: -10px;
+}
+.A {
+    display: flex;
+}
+.A1 {
+    margin-left: 44px;
+}
+.A2 {
+    font-size: 16px;
+    color: white;
+    margin-top: 14px;
+    margin-left: 6px;
+}
+.main {
+    display: flex;
+}
+.A3 {
+    width: 40%;
+}
+.A4 {
+    width: 30%;
+}
+.A5 {
+    height: 241px;
+    width: 245px;
+    margin-left: 117px;
+    margin-top: 62px;
+}
+.A6 {
+    font-size: 37px;
+    color: white;
+    margin-left: 311px;
+    margin-top: 58PX;
+}
+.A7 {
+    font-size: 15px;
+    color: white;
+    margin-left: 324px;
+    margin-top: 22px;
+}
+.A8 {
+    font-size: 15px;
+    border-radius: 29px;
+    background-color: blueviolet;
+    color: white;
+    margin-left: 323px;
+    margin-top: 64px;
+    width: 145px;
+    padding: 10px;
+}
+.B1 {
+    font-size: 15px;
+    color: black;
+    margin-left: 533px;
+    border-radius: 20px;
+    margin-top: -5px;
+    background: white;
+    width: 23px;
+}
+.B2 {
+    font-size: 15px;
+    color: black;
+    border-radius: 20px;
+    margin-top: -5px;
+    background: white;
+    width: 23px;
+}
+.C1 {
+    font-size: 32px;
+    color: black;
+    text-align: center;
+    margin-right: 107px;
+    margin-top: 68px;
+}
+.C2 {
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+}
+.C3 {
+    display: flex;
+}
+.C4 {
+    width: 50%;
+}
+.C5 {
+    width: 50%;
+}
+.right1 {
+    font-size: 26px;
+    color: blueviolet;
+    margin-left: 207px;
+    margin-top: 98px;
+}
+.hr1 {
+    width: 182px;
+    margin-left: 405px;
+    margin-top: -17px;
+}
+.right2 {
+    font-size: 26px;
+    color: black;
+    margin-left: 276px;
+    margin-top: 106px;
+}
+.hr2 {
+    width: 129px;
+    margin-left: 446px;
+    margin-top: -19px;
+}
+.right3 {
+    font-size: 26px;
+    color: black;
+    margin-left: 207px;
+    margin-top: 106px;
+}
+.hr3 {
+    width: 182px;
+    margin-left: 435px;
+    margin-top: -23px;
+}
+.left {
+    height: 433px;
+    width: 75%;
+    margin-top: 84px;
+}
+.buton {
+    font-size: 15px;
+    width: 13%;
+    background-color: blue;
+    margin-left: 533px;
+    margin-top: 49px;
+    color: white;
+    padding: 10px;
+    border-radius: 26px;
+}
+.header3 {
+    display: flex;
+    width: 100%;
+}
+.D {
+    width: 50%;
+}
+.E {
+    width: 50%;
+}
+.D1 {
+    height: 234px;
+    width: 60%;
+    margin-left: 149px;
+    margin-top: 84px;
+}
+.E1 {
+    font-size: 36px;
+    color: black;
+    margin-top: 104px;
+}
+.E2 {
+    font-size: 19px;
+    color: black;
+    margin-top: 21px;
+}
+.E3 {
+    font-size: 15px;
+    width: 24%;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 26px;
+    margin-top: 36px;
+}
+
+.header4 {
+    display: flex;
+    width: 100%;
+    margin-top: 94px;
+}
+.F {
+    width: 15%;
+}
+.G {
+    width: 70%;
+}
+.F1 {
+    font-size: 30px;
+    width: 189px;
+    margin-top: 0px;
+    margin-left: 10p;
+    width: 189px;
+    padding: 99px;
+    color: white;
+    background: rgb(51, 41, 87);
+    height: 412px;
+}
+.G1 {
+    height: 413px;
+    width: 121%;
+}
+.G2 {
+    font-size: 43px;
+    color: white;
+    margin-top: -300px;
+    margin-left: 64px;
+}
+.G3 {
+    font-size: 25px;
+    color: white;
+    margin-left: 67px;
+    margin-top: 32px;
+}
+.G4 {
+    font-size: 15px;
+    width: 24%;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 26px;
+    margin-top: 19px;
+    margin-left: 62px;
+}
+.H1 {
+    font-size: 41px;
+    color: black;
+    text-align: center;
+    margin-top: 82px;
+}
+.H2 {
+    font-size: 18px;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+.header6 {
+    height: 416px;
+    width: 557px;
+    border: 1px solid wheat;
+    margin-left: 341px;
+    margin-top: 50px;
+}
+.J1 {
+    height: 222px;
+    width: 503px;
+    margin-left: 26px;
+    margin-top: -13px;
+}
+.J2 {
+
+    font-size: 32px;
+    color: black;
+    margin-left: 66px;
+    margin-top: 10px;
+}
+.J3 {
+    font-size: 16px;
+    color: black;
+    margin-left: 39px;
+    margin-top: 20px;
+}
+.J4 {
+    font-size: 15px;
+    width: 24%;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 26px;
+    margin-left: 210px;
+    margin-top: 39px;
+}
+.M1 {
+    font-size: 15px;
+    margin-left: 574px;
+    margin-top: 41px;
+    width: 27px;
+    border-radius: 13px;
+}
+.M2 {
+    font-size: 15px;
+    margin-top: 41px;
+    width: 27px;
+    border-radius: 13px;
+    background-color: palevioletred;
+    color: white;
+}
+.K1 {
+    font-size: 34px;
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+    margin-right: 44px;
+}
+.k2 {
+    font-size: 15px;
+    color: black;
+    margin-left: 265px;
+    width: 665px;
+    padding: 10px;
+    margin-top: 23px;
+}
+.K3 {
+    font-size: 15px;
+    width: 24%;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 26px;
+    margin-left: 455px;
+    margin-top: 27px;
+}
+.footer {
+    display: flex;
+    width: 100%;
+    margin-top: 86px;
+    background-color: bisque;
+}
+.foter1 {
+    width: 25%;
+}
+
+.foter2 {
+    width: 25%;
+}
+
+.foter3 {
+    width: 25%;
+}
+
+.foter4 {
+    width: 25%;
+}
+
+.FO1 {
+    font-size: 20px;
+    color: black;
+    margin-left: 76px;
+    margin-top: 105px;
+}
+
+.FO2 {
+    font-size: 15px;
+    margin-left: 82px;
+    margin-top: 25px;
+}
+
+.FO3 {
+    font-size: 20px;
+    color: black;
+    margin-top: 105px;
+}
+
+.FO4 {
+    font-size: 15px;
+    margin-top: 25px;
+}
+
+.FO5 {
+    font-size: 20px;
+    margin-top: 105px;
+}
+
+.FO6 {
+    font-size: 15px;
+    margin-top: 25px;
+}
+
+.FO7 {
+    font-size: 15px;
+    margin-top: 17px;
+}
+.FO8 {
+    font-size: 15px;
+    margin-top: 17px;
+}
+.FO9{
+    margin-top: 105px;
+}
+.FO9{
+    font-size: 20px;
+    margin-top: 105px;
+}
+.FO10{
+    margin-top: 15px;
+    width: 248px;
+    height: 135px;
+}
